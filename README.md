@@ -245,5 +245,4 @@
         </div>
         <div><br>
         </div>
-        <div>Kaynak: docker.com<br>
-        </div>
+     
